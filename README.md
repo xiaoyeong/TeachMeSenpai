@@ -16,16 +16,22 @@ I learned python in 24 hrs and the api of SensorUDP
 
 # How to Install
 Download the application SensorUDP in google Playstore :
+
 https://play.google.com/store/apps/details?id=com.ubccapstone.sensorUDP&hl=en_SG
 
 Clone the directory from :
+
 https://github.com/xiaoyeong/TeachMeSenpai
 
 Enter the directory by typing in this command
+
 cd Teach-Me-Senpai
 
+
 Install prerequisite libraries with the following command:
+
 pip install -r requirements.txt
+
 
 To run the game, enter the command
 
