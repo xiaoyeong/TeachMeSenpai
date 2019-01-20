@@ -35,16 +35,12 @@ python teachMeSenpai.py
 We are going to continue building more games to suit the different kind of physiotherapy movement
 
 # Built With
-Languages
-
-Python 3.5.3 - For its standard libraries.
-Frameworks and Libraries
-
+Python 3.7
 Pygame - For running games.
 
-Authors
+# Authors
 Lou Shaw Yeong : https://github.com/xiaoyeong
 
-Acknowledgments
+# Acknowledgments
 Hat tip to anyone whose code was used
 Haz001 : https://github.com/Haz001
