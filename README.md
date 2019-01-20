@@ -36,11 +36,13 @@ We are going to continue building more games to suit the different kind of physi
 
 # Built With
 Python 3.7
+
 Pygame - For running games.
 
 # Authors
 Lou Shaw Yeong : https://github.com/xiaoyeong
 
 # Acknowledgments
-Hat tip to anyone whose code was used
+Hat tip to anyone whose code was used.
+
 Haz001 : https://github.com/Haz001
